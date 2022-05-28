@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;500&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #28A745;
+}
+
+.navbar-toggler {
+    border-color: #FFFFFF80;
+    color: #FFFFFF80;
+}
+
+i {
+    color: #707070;
+    font-size: 75%;
+}
+
+.original {
+    color: #707070;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.descuento {
+    color: #28A745;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+section {
+    background-color: #28A745;
+}
+
+section p{
+    color: #fff;
+    font-size: 21px;
+    text-align: center;
+    font-weight: 500;
+}
+
+section .tipo {
+    color: #707070;
+    width: 95%;
+    border: solid 1px #DDDDDD ;
+    border-radius: 4px;
+}
+
+section .boton {
+    border: solid 1px #DDDDDD ;
+    background-color: #F8F9FA;
+    border-radius: 4px;
+    color: #212529;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 500;
+}
+
+footer h3 {
+    text-align: center;
+}
+
+footer p {
+    color: #707070;
+    font-size: 16px;
+    text-align: center;
+    line-height: 19px;
+    font-weight: 100;
+    width: 60%;
+}
